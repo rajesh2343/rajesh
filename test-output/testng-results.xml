@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T16:03:16 IST" name="Default suite" finished-at="2023-06-20T16:05:10 IST" duration-ms="114747">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T16:03:16 IST" name="Default test" finished-at="2023-06-20T16:05:10 IST" duration-ms="114747">
+      <class name="parllel_methods1.All_Tests">
+        <test-method signature="NationalityTest()[pri:0, instance:parllel_methods1.All_Tests@7582ff54]" started-at="2023-06-20T16:03:16 IST" name="NationalityTest" finished-at="2023-06-20T16:04:10 IST" duration-ms="53912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NationalityTest -->
+        <test-method signature="SkillsTest()[pri:0, instance:parllel_methods1.All_Tests@7582ff54]" started-at="2023-06-20T16:04:10 IST" name="SkillsTest" finished-at="2023-06-20T16:05:10 IST" duration-ms="60781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SkillsTest -->
+      </class> <!-- parllel_methods1.All_Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

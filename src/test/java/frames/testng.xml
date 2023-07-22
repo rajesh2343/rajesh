@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Suite">
+  <test  name="Test1">
+    <classes>
+      <class name="frames.frame_by_index"/>
+    </classes>
+  </test> <!-- Test -->
+  <test  name="Test2">
+    <classes>
+      <class name="frames.frame_by_name"/>
+    </classes>
+  </test> <!-- Test -->
+  <test  name="Test3">
+    <classes>
+      <class name="frames.frame_by_webelement"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
